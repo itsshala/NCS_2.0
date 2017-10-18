@@ -1,9 +1,16 @@
+.callout {
+    border: none;
+    background-color: transparent;
+}
+#mobileWelcome {
+	background-image: url("../img/froSmile.png");
+	width: 100%;
+	height: 60%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
 @media only screen and (max-width: 750px) {
     #desktopWelcome {
         display: none;
     }
-}
-
-#mobileWelcome {
-	background-image: url("assets/img/smiling_fro.png");
 }
