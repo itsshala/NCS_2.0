@@ -3,3 +3,7 @@
         display: none;
     }
 }
+
+#mobileWelcome {
+	background-image: url("assets/img/smiling_fro.png");
+}
